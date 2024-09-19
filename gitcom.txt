@@ -1,0 +1,8 @@
+git init
+git config --global user.name "tree-water"
+git config --global user.email "2909490669@email"
+git checkout -b "IM1281B"
+git add .
+git commit -m "IM1281B"
+git remote add acac-remote https://github.com/tree-water/acac.git
+git push acac-remote IM1281B
