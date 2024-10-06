@@ -1,0 +1,8 @@
+../Core/Src/IM1281B.c:24:10:calculateCRC	32	static
+../Core/Src/IM1281B.c:39:5:hextoDec	40	static
+../Core/Src/IM1281B.c:57:10:combine_bytes	16	static
+../Core/Src/IM1281B.c:61:6:ConvertBytesToUInt32Array	24	static
+../Core/Src/IM1281B.c:70:6:Get_AC_Param	56	static
+../Core/Src/IM1281B.c:88:6:ModBus_Send	8	static
+../Core/Src/IM1281B.c:94:6:ModBus_Receive	88	static
+../Core/Src/IM1281B.c:126:6:ModBus_Test	8	static
